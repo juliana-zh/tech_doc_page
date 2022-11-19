@@ -6,6 +6,7 @@ html {
 
 * {
   color: inherit;
+  box-sizing: border-box;
 }
 
 header {
@@ -33,7 +34,6 @@ body {
 
 #main-doc {
   order: 2;
-  float: right;
   position: absolute;
   top: 0;
   left: 300px;
